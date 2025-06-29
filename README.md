@@ -1,4 +1,4 @@
-# hgnc_id_find
+# Gene Symbol Mapping from HGNC Complete Dataset
 Maps gene symbols (official, previous, and aliases) to HGNC, Ensembl, and Entrez IDs using the HGNC complete dataset for standardized gene identifier lookup.
 Gene Symbol Mapping from HGNC Complete Dataset
 This script builds a comprehensive lookup dictionary to map gene symbols—including official symbols, previous names, and aliases—to standardized identifiers from the HGNC complete set. The identifiers include:
